@@ -36,19 +36,7 @@
 
 Startup/indexing path:
 
-products.json
-     |
-     v
-Dataset validation
-     |
-     v
-Product text construction
-     |
-     v
-Sentence-transformer embeddings
-     |
-     v
-In-memory embedding matrix
+products.json -> validation -> product text -> sentence embeddings -> in-memory matrix
 ```
 
 ## Why this architecture?
