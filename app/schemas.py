@@ -21,8 +21,8 @@ class SearchResult(BaseModel):
 
 
 class ParsedQuery(BaseModel):
-    max_price: Optional[float] = None
     min_price: Optional[float] = None
+    max_price: Optional[float] = None
     category_hint: Optional[str] = None
     budget_hint: bool = False
 
