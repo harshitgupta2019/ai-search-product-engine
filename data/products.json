@@ -1,0 +1,72 @@
+[
+  {
+    "id": "p1",
+    "title": "Redragon K552 Mechanical Gaming Keyboard",
+    "description": "Compact mechanical keyboard with red switches, RGB lighting and gaming-focused anti-ghosting.",
+    "category": "Gaming Keyboards",
+    "price": 3499
+  },
+  {
+    "id": "p2",
+    "title": "Logitech K120 Wired Keyboard",
+    "description": "Affordable full-size wired keyboard for everyday office and home use.",
+    "category": "Keyboards",
+    "price": 899
+  },
+  {
+    "id": "p3",
+    "title": "Cosmic Byte CB-GK-05 Mechanical Keyboard",
+    "description": "Budget mechanical gaming keyboard with RGB backlight and tactile switches.",
+    "category": "Gaming Keyboards",
+    "price": 2799
+  },
+  {
+    "id": "p4",
+    "title": "Sony PlayStation Store Gift Card ₹2000",
+    "description": "Digital gift card for purchasing games, add-ons and subscriptions on PlayStation Store.",
+    "category": "Gift Cards",
+    "price": 2000
+  },
+  {
+    "id": "p5",
+    "title": "Sony PlayStation Store Gift Card ₹5000",
+    "description": "Digital PlayStation Store gift card suitable for games, add-ons and subscriptions.",
+    "category": "Gift Cards",
+    "price": 5000
+  },
+  {
+    "id": "p6",
+    "title": "HP Wireless Mouse 250",
+    "description": "Simple wireless mouse for everyday productivity and laptop use.",
+    "category": "Mice",
+    "price": 749
+  },
+  {
+    "id": "p7",
+    "title": "HyperX Cloud Stinger 2 Gaming Headset",
+    "description": "Comfortable gaming headset with microphone and clear directional audio.",
+    "category": "Gaming Headsets",
+    "price": 3999
+  },
+  {
+    "id": "p8",
+    "title": "ASUS TUF Gaming 24-inch Monitor",
+    "description": "Gaming monitor with high refresh rate, adaptive sync and low response time.",
+    "category": "Gaming Monitors",
+    "price": 12999
+  },
+  {
+    "id": "p9",
+    "title": "Keychron K2 Wireless Mechanical Keyboard",
+    "description": "Premium compact wireless mechanical keyboard for developers and enthusiasts.",
+    "category": "Mechanical Keyboards",
+    "price": 7499
+  },
+  {
+    "id": "p10",
+    "title": "Amazon Shopping Gift Card ₹1000",
+    "description": "Gift card that can be redeemed for eligible purchases on Amazon.",
+    "category": "Gift Cards",
+    "price": 1000
+  }
+]
